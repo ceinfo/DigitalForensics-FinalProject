@@ -1,5 +1,5 @@
 # DigitalForensics-FinalProject
-NYU Digitial Forensics Project - Volatility Plugin to detect dll/code injection
+NYU Digitial Forensics Project - Volatility Plugin to detect dll/code injection written in Python.
 
 Malscan Demo:<br>
 <a href="http://www.youtube.com/watch?v=Vliw79rRu1c">
@@ -9,5 +9,5 @@ Malscan Demo:<br>
 <br>
 <nobr>NYU CyFor Link: http://www.youtube.com/watch?v=Vliw79rRu1c</nobr>
 
-<br>
+<br><br>
 Thanks!
